@@ -1,0 +1,10 @@
+> compile
+
+> y/createFoo
+
+# should fail. but success
+> compile
+
+> clean
+
+-> compile
